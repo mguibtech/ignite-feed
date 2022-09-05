@@ -46,7 +46,8 @@ Por conta do sistema ser responsível, o mesmo adaptabilidade para diferentes ta
 
 ### Web
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Capa.png" width="700px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Capa.png" width="500px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/Desktop _ Feed.png" width="400px">
 </p>
 
 ### Mobile
@@ -60,7 +61,7 @@ Por conta do sistema ser responsível, o mesmo adaptabilidade para diferentes ta
 
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na constução do projeto:
-- [TypeScript]
+- [JavaScript]
 - [React]
 - [HTML e CSS]
 - [Vite]
